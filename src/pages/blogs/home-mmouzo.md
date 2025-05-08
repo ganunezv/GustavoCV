@@ -1,8 +1,8 @@
 ---
-title: The Crew
+title: Avanti Logistica
 date: 11/2022 - Present
-url: http://em.gl/giw
-url_name: em.gl
+url: https://avantilogistica.com/
+url_name: Avanti Logistica SAS
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Somos una empresa especializada en soluciones de transporte de carga y comercio exterior. Nos comprometemos a brindar un servicio confiable y eficiente. Asegurando que sus mercancias lleguen a su destino de manera segura y puntual. Con experiencia en el sector, ofrecemos asesoria personalizada para optimizar cada envio.
