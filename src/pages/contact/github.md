@@ -1,5 +1,5 @@
 ---
-title: Github
-icon: carbon:logo-github
-url: httpa://github.com
+title: Whatsapp
+icon: carbon:phone
+url: https://wa.link/arsfky
 ---

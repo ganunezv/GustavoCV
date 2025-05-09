@@ -1,14 +1,23 @@
 ---
-title: Senior Detective
-date: 1990 - Present
-url: http://ropibbe.nf/savadru
-location: Los Angeles, California
-org: Los Angeles Police Department (LAPD)
-tags: ["Law Enforcement", "Police Work", "Tactical Operations", "Case Management"]
+title: Operador Logistico en Lean Solution Group
+date: Septiembre del 2023 - Presente
+url: https://www.leangroup.com/
+location: Barranquilla Colombia
+org: Lean Solution Group
+tags:
+  [
+    "Transportation",
+    "Global Forwarding",
+    "Warehousing & Distribution",
+    "Back Office",
+  ]
 ---
 
-- Lead investigations into organized crime, drug trafficking, and high-profile criminal activities.
-- Conducted extensive surveillance operations utilizing advanced equipment and techniques to gather critical intelligence.
-- Collaborated with federal agencies such as the FBI and DEA on joint task forces to dismantle criminal syndicates.
-- Played a pivotal role in numerous undercover operations, successfully infiltrating criminal organizations and gathering actionable evidence for prosecution.
-- Trained and mentored junior officers in surveillance tactics, undercover operations, and tactical maneuvers.
+-Gestión de órdenes y seguimiento de envíos:
+Coordinación diaria de recolecciones, despachos y entregas, asegurando cumplimiento en tiempos de tránsito y atención a incidentes logísticos.
+
+-Comunicación con clientes y proveedores:
+Interacción constante para resolver dudas, gestionar solicitudes, informar estados de carga y asegurar una experiencia fluida en la cadena de suministro.
+
+-Manejo de sistemas logísticos y plataformas TMS/WMS:
+Uso eficiente de herramientas tecnológicas para la trazabilidad de envíos, control de inventarios y generación de reportes operativos.
